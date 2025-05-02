@@ -2,6 +2,7 @@
   "name": "babybet",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://thomasoteixeira.github.io/babybet",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
